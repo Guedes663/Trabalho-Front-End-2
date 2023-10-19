@@ -22,7 +22,7 @@ Este é um aplicativo da web simples que consome a API Rick and Morty para exibi
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/otaviotiltado45/rick-and-morty-api-app.git
+   
 
 2. Navegue até o diretório do projeto:
 cd rick-and-morty-api-app
