@@ -1,7 +1,5 @@
 # Rick and Morty API Web App
 
-![Rick and Morty Logo](https://rickandmortyapi.com/static/logo.png)
-
 Este é um aplicativo da web simples que consome a API Rick and Morty para exibir informações sobre personagens da série. Os usuários podem pesquisar por personagens pelo nome e visualizar detalhes individuais de cada personagem.
 
 ## Funcionalidades
